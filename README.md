@@ -1,5 +1,6 @@
+# [Example](https://github.com/Dead-TR/pixijs-port-task/tree/main)
 
-# Run:
+## Run:
 ```bash
 # clone the repo.
 # --depth 1 removes all but one .git commit history (Optional).
@@ -22,6 +23,7 @@ go to [http://localhost:1234](http://localhost:1234) in your browser. Done.
 * `npm run build` - runs the compiler once and generates a production build.
 * `npm run build_serve` - it makes a build and serves it to port 8080.
 * `npm run test` - runs the unit tests (.spec.ts files).
+
 
 
 ## Screenshot:
