@@ -1,4 +1,4 @@
-# [Example](https://github.com/Dead-TR/pixijs-port-task/tree/main)
+# [Example](https://dead-tr.github.io/pixijs-port-task/)
 
 ## Run:
 ```bash
